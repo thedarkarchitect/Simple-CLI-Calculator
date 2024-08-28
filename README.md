@@ -19,6 +19,6 @@ This is a simple command-line banking system implemented in Java. It allows user
 
 ```bash
 git clone https://github.com/thedarkarchitect/Simple-CLI-Calculator.git
-cd CLiCal
+cd Simple-CLI-Calculator
 ```
 open with intellij or your preferred text editor
